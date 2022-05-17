@@ -1,8 +1,7 @@
-# .github
-CHEATSHEET /n
-
-Download git from https://git-scm.com/ and install git /n
-Run GitBash, this opens a command promp window for git /n
+# .github CHEATSHEET
+```
+Download git from https://git-scm.com/ and install git
+Run GitBash, this opens a command promp window for git
 
 Create a repository within the organization or choose an existing repository.
 In GitBash:
@@ -17,4 +16,4 @@ In GitBash:
   $ git commit -m "comment"  # commit changes to temporary, you can use a fork
   $ git push  # send the changes back to github
 
-
+```
