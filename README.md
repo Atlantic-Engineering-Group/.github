@@ -1,8 +1,8 @@
 # .github
-CHEATSHEET
+CHEATSHEET /n
 
-Download git from https://git-scm.com/ and install git
-Run GitBash, this opens a command promp window for git
+Download git from https://git-scm.com/ and install git /n
+Run GitBash, this opens a command promp window for git /n
 
 Create a repository within the organization or choose an existing repository.
 In GitBash:
