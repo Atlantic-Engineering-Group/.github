@@ -16,10 +16,10 @@ In GitBash:
   $ git commit -m "comment"  # commit changes to temporary, you can use a fork
   $ git push origin main  # send the changes back to github
 
-```
 To Edit an Existing Repository:
   $ cd /c/Users/YourName/folder/folder..... #Navigate to your desired project folder.
   $ git remote set-url origin [repo-url]
   $ git add .
   $ git commit -m "Comment"
   $ git push origin main
+```
