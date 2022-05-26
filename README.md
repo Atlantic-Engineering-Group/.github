@@ -16,10 +16,17 @@ In GitBash:
   $ git commit -m "comment"  # commit changes to temporary, you can use a fork
   $ git push origin main  # send the changes back to github
 
-To Edit an Existing Repository:
+To Edit an Existing Repository (repo exists in GitHub and you have already cloned it into your folder):
   $ cd /c/Users/YourName/folder/folder..... #Navigate to your desired project folder.
   $ git remote set-url origin [repo-url]
-  $ git add .
+  $ git add .             # You may have to perform a git pull to get all updates.
   $ git commit -m "Comment"
   $ git push origin main
+  
+  
+```
+```
+You can use the following method if you mess up on your $git add .
+$ git reset  
+# This command can reset $ git add, and $ git commit
 ```
